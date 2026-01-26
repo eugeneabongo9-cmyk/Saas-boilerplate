@@ -106,19 +106,6 @@ src/
 * Implement proper error handling with tRPC
 * Use React Query features through tRPC for data management
 
-## Related Projects
-
-🚀 **[NativeExpress](https://native.express?ref=saas-boilerplate)** - The ultimate React Native & Expo boilerplate with all the features you need to build production-ready mobile apps.
-
----
-
-<p align="center">
-  <a href="https://x.com/robin_faraj?ref=saas-boilerplate">Follow on X</a> •
-  <a href="https://www.youtube.com/@robinfaraj?sub_confirmation=1">Subscribe on YouTube</a>
-</p>
-
-> This project is maintained by [Robin Faraj](https://x.com/robin_faraj?ref=saas-boilerplate)
-
 ## Environment Variables
 
 ### Required Environment Variables
@@ -151,8 +138,3 @@ These environment variables are optional but enable additional features:
      ```bash
      pnpm db:push
      ```
-
-3. For Stack Auth credentials:
-   - Visit [Stack Auth Documentation](https://docs.stack-auth.com/overview)
-   - Follow their setup guide to obtain your project credentials
-   - Fill in the corresponding environment variables
